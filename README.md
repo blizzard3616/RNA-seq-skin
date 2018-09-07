@@ -1,2 +1,3 @@
 # RNA-seq-skin
-got raw CSVm just pick up genes
+Got raw CSVm just pick up genes
+Thanks to Davit
